@@ -13,4 +13,3 @@ This project simulates a clinic front-desk assistant that interacts with users t
 ## 🛠️ Tech Stack
 - Python
 - pyttsx3
-t
